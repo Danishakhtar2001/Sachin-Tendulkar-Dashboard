@@ -45,7 +45,8 @@ Developed a lively Power BI dashboard employing Power Query for ETL Operations. 
 6. **Gain Insights:** Use the insights gained to delve deeper into Sachin's cricket legacy and analyze various aspects of his career.
 
 ## Contributors
-- [@Danishakhtar2001)](https://https://github.com/Danishakhtar2001)
+- [@Danishakhtar2001](https://github.com/Danishakhtar2001)
+
 
 Feel free to contribute by opening issues, suggesting features, or submitting pull requests!
 
